@@ -8,11 +8,13 @@ div.content{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    background-color: white;
 }
 div.content>textarea{
     width: 30em;
     height: 12em;
     margin: 1em;
+    background-color: white;
 }
 div.content>.buttons{
     display: flex;
